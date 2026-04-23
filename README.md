@@ -9,6 +9,8 @@
 - Apellido y nombre: Borora Melani Agustina
 - Email: agustinaborora@gmail.com
 - GitHub: Agustina-Borora
+## Profesores
+
 ## Definición del problema
 Actualmente, el registro de horas laborales se realiza de forma manual o desorganizada, lo que genera errores en el cálculo de salarios y dificultades en el control de asistencia.
 

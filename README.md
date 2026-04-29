@@ -31,19 +31,36 @@ Desarrollar un sistema que permita registrar y gestionar las horas laborales del
 ## Alcance del proyecto
 El sistema permitirá gestionar las horas laborales, asistencia y cálculo de horas trabajadas, sin incluir la liquidación completa de sueldos.
 
-## Cronograma de actividades
 
-## Estudio de factibilidad 
+##  Cronograma de actividades
+- Semana 1: Análisis del problema  
+- Semana 2: Diseño del sistema  
+- Semana 3: Desarrollo del sistema  
+- Semana 4: Pruebas y correcciones  
 
-## Técnica
 
-## Económica
+##  Estudio de factibilidad
 
-## Operativa
+### Técnica
+El sistema es viable ya que se utilizarán tecnologías conocidas como Python/Java y bases de datos simples.
 
-## Requerimientos Funcionales
+### Económica
+El desarrollo no requiere grandes costos, ya que se utilizarán herramientas gratuitas.
 
-## Requisitos generales
+### Operativa
+El sistema será fácil de usar por el personal administrativo sin necesidad de capacitación avanzada.
 
-## Requisitos funcionales
+
+##  Requerimientos Funcionales
+
+### Requisitos generales
+- Interfaz simple y fácil de usar  
+- Acceso seguro al sistema  
+- Disponibilidad del sistema en horario laboral  
+
+### Requisitos funcionales
+- Registrar ingreso y egreso de empleados  
+- Calcular horas trabajadas automáticamente  
+- Generar reportes de asistencia  
+- Almacenar historial de registros 
 

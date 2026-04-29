@@ -4,7 +4,7 @@
     IES N°7 Populorum Progressio IN.TE.LA
 
 ## Año
-
+    2026
 ## Autor/es
 - Apellido y nombre: Borora Melani Agustina
 - Email: agustinaborora@gmail.com
@@ -73,4 +73,5 @@ He desarrollado un script en Python para calcular la edad automáticamente.
 3. Ejecuta el comando: `python edad.py`
 
 [Click aquí para ver el script](./edad.py)
+
 

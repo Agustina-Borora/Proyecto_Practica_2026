@@ -10,6 +10,7 @@
 - Email: agustinaborora@gmail.com
 - GitHub: Agustina-Borora
 ## Profesores
+- Apellido y nombre: Manuel Serrano y Hoyos Oscar
 
 ## Definición del problema
 Actualmente, el registro de horas laborales se realiza de forma manual o desorganizada, lo que genera errores en el cálculo de salarios y dificultades en el control de asistencia.
@@ -29,3 +30,20 @@ Desarrollar un sistema que permita registrar y gestionar las horas laborales del
 
 ## Alcance del proyecto
 El sistema permitirá gestionar las horas laborales, asistencia y cálculo de horas trabajadas, sin incluir la liquidación completa de sueldos.
+
+## Cronograma de actividades
+
+## Estudio de factibilidad 
+
+## Técnica
+
+## Económica
+
+## Operativa
+
+## Requerimientos Funcionales
+
+## Requisitos generales
+
+## Requisitos funcionales
+

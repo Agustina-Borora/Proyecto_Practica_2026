@@ -64,3 +64,13 @@ El sistema será fácil de usar por el personal administrativo sin necesidad de 
 - Generar reportes de asistencia  
 - Almacenar historial de registros 
 
+## Script de Cálculo de Edad
+He desarrollado un script en Python para calcular la edad automáticamente.
+
+### Cómo ejecutarlo:
+1. Asegúrate de tener Python instalado.
+2. Abre la terminal en esta carpeta.
+3. Ejecuta el comando: `python edad.py`
+
+[Click aquí para ver el script](./edad.py)
+

@@ -129,6 +129,13 @@ Las tablas principales serán:
 5. Probar la generación de reportes.
 6. Verificar la conexión con la base de datos.
 
+# Comando Git branch -D
+
+## Función
+El comando git branch -D sirve para eliminar una rama de forma forzada.
+
+## Sintaxis
+git branch -D nombre_rama
 
 ## Script de Cálculo de Edad
 He desarrollado un script en Python para calcular la edad automáticamente.

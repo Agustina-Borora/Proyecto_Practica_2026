@@ -64,6 +64,27 @@ El sistema será fácil de usar por el personal administrativo sin necesidad de 
 - Generar reportes de asistencia  
 - Almacenar historial de registros 
 
+# Diseño
+
+# Modelo de datos
+
+## Datos de entrada
+
+## Datos internos
+
+## Datos de salida
+
+# Base de datos
+
+# Dependencias
+
+# Software (herramientas)
+
+# Procedimientos de instalación
+
+# Procedimientos de testing
+
+
 ## Script de Cálculo de Edad
 He desarrollado un script en Python para calcular la edad automáticamente.
 
@@ -73,5 +94,6 @@ He desarrollado un script en Python para calcular la edad automáticamente.
 3. Ejecuta el comando: `python edad.py`
 
 [Click aquí para ver el script](./edad.py)
+
 
 

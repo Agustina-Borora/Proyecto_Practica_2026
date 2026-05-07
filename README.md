@@ -65,24 +65,69 @@ El sistema será fácil de usar por el personal administrativo sin necesidad de 
 - Almacenar historial de registros 
 
 # Diseño
+El sistema contará con una interfaz sencilla e intuitiva para el registro y control de horas laborales.  
+Permitirá al personal administrativo registrar entradas y salidas, consultar reportes y visualizar información de empleados.
 
 # Modelo de datos
 
 ## Datos de entrada
+- Nombre y apellido del empleado
+- DNI
+- Fecha
+- Hora de ingreso
+- Hora de salida
+- Cargo o puesto
 
 ## Datos internos
+- ID del empleado
+- Historial de asistencia
+- Horas acumuladas
+- Usuarios del sistema
+- Registros almacenados en la base de datos
 
 ## Datos de salida
+- Reporte de asistencia
+- Cantidad de horas trabajadas
+- Listado de empleados
+- Historial de registros
+- Informes administrativos
 
 # Base de datos
+Se utilizará una base de datos MySQL para almacenar la información del sistema.  
+Las tablas principales serán:
+- empleados
+- asistencia
+- usuarios
+- reportes
 
 # Dependencias
+- Java JDK o Python
+- MySQL
+- Conector JDBC
+- Git
 
 # Software (herramientas)
+- NetBeans
+- MySQL Workbench
+- Git Bash
+- GitHub
+- Visual Studio Code
 
 # Procedimientos de instalación
+1. Clonar el repositorio desde GitHub.
+2. Abrir el proyecto en NetBeans o Visual Studio Code.
+3. Crear la base de datos en MySQL.
+4. Importar las tablas necesarias.
+5. Configurar la conexión a la base de datos.
+6. Ejecutar el sistema.
 
 # Procedimientos de testing
+1. Verificar el inicio del sistema.
+2. Comprobar el registro de empleados.
+3. Validar el registro de horas de entrada y salida.
+4. Revisar el cálculo automático de horas trabajadas.
+5. Probar la generación de reportes.
+6. Verificar la conexión con la base de datos.
 
 
 ## Script de Cálculo de Edad
